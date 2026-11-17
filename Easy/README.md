@@ -3,11 +3,7 @@
 
 This folder contains my beginner-friendly LeetCode solutions using Java.
 
-## Problems Solved
 
-| No. | Problem Name | Language | Difficulty |
-|---|---|---|---|
-| 231 | Power of Two | Java | Easy |
 
 ## Topics
 - Basic Math
